@@ -1,0 +1,17 @@
+{
+  "name": "sayit2caption",
+  "version": "1.0.0",
+  "description": "Automatic captioning from sayit to youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PDIS",
+  "license": "MIT",
+  "dependencies": {
+    "libxmljs": "^0.19.7"
+  },
+  "bin": {
+    "sayit2caption": "./index.js"
+  }
+}
